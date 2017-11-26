@@ -11,6 +11,8 @@ BFF NIFC:
 - [Katalog kartkowy](192.168.0.202/katalog/) (tylko w sieci wewnętrznej)
 - [Repozytorium BFF](192.168.0.202) (tylko w sieci wewnętrznej)
 
+- [Zamawianie materiałów do digitalizacji](https://goo.gl/forms/34HtBsd7YXf6Pb3F3)
+
 Bazy:
 
 - [Naxos Music Library](http://nifc.naxosmusiclibrary.com)
