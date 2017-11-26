@@ -9,7 +9,7 @@ name: Biblioteka Narodowego Instytutu Fryderyka Chopina
 description: Newsletter tworzony przez zespół BFF - NIFC
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: <a target="new" href="www.chopin.nifc.pl"><img https://github.com/nifcbff/nifcbff.github.io/blob/master/images/logo_pl.gif?raw=true></a>
+avatar: <a target="new" href="www.chopin.nifc.pl"> <img alt="Narodowy Instytut Fryderyka Chopina" src="https://github.com/nifcbff/nifcbff.github.io/blob/master/images/logo_pl.gif?raw=true"> </a>
 
 #
 # Flags below are optional
