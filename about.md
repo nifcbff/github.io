@@ -4,14 +4,14 @@ title: Kontakt
 permalink: /about/
 ---
 
-- [Biblioteka](mailto:biblioteka@nifc.pl)
-- [RISM NIFC](mailto:rism@nifc.pl)
+- [Biblioteka](mailto:biblioteka@nifc.pl) kontakt w sprawach ogólnych
+- [RISM NIFC](mailto:rism@nifc.pl) kontakt w sprawach związanych z działalnością komórki RISM w NIFC
 
 ---
 
-- [dr Marcin Konik, kierownik](mailto:mkonik@nifc.pl)
-- [Monika Wiciarz, z-ca kierownika, fonoteka](mailto:mwiciarz@nifc.pl)
-- [Marcelina Chojecka, fototeka](mailto:mchojecka@nifc.pl)
-- [Dominik Kowalski, pracownia digitalizacji](mailto:dkowalski@nifc.pl)
-- [Jacek Iwaszko, muzykologia cyfrowa](mailto:jiwaszko@nifc.pl)
+- [dr Marcin Konik](mailto:mkonik@nifc.pl) kierownik
+- [Monika Wiciarz](mailto:mwiciarz@nifc.pl) z-ca kierownika, fonoteka
+- [Marcelina Chojecka](mailto:mchojecka@nifc.pl) fototeka
+- [Dominik Kowalski](mailto:dkowalski@nifc.pl) pracownia digitalizacji
+- [Jacek Iwaszko](mailto:jiwaszko@nifc.pl) muzykologia cyfrowa
 
