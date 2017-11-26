@@ -1,14 +1,15 @@
 ---
 layout: post
-title:
----
-Newsletter - wydanie {{ page.date | date: "%d-%m-%Y" }}
-
-### Informacje
-
+title: Newsletter mm/yyyy
 ---
 
-### Nowości
+Wydanie z dnia {{ page.date | date: "%d-%m-%Y" }}
+
+## Informacje
+
+---
+
+## Nowości
 
 - Książki
 - Czasopisma
