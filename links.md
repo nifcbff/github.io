@@ -16,6 +16,6 @@ BFF NIFC:
 
 Bazy dostępne w BFF:
 
-- [Naxos Music Library](http://nifc.naxosmusiclibrary.com)
-- [JSTOR](http://jstor.com)
-- [Grove Music Online](http://www.oxfordmusiconline.com/grovemusic/)
+- <a target="new" href="http://nifc.naxosmusiclibrary.com">Naxos Music Library</a>
+- <a target="new" href="http://jstor.com">JSTOR</a>
+- <a target="new" href="http://www.oxfordmusiconline.com/grovemusic/">Grove Music Online</a>
