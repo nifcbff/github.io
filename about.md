@@ -11,8 +11,7 @@ permalink: /about/
 
 - [dr Marcin Konik](mailto:mkonik@nifc.pl) kierownik
 - [Monika Wiciarz](mailto:mwiciarz@nifc.pl) z-ca kierownika, fonoteka
-- [Marcelina Chojecka](mailto:mchojecka@nifc.pl) fototeka
-- [Tamara Podgórska-Biniek](mailto:tbiniek@nifc.pl) czasopisma
+- [Marcelina Chojecka](mailto:mchojecka@nifc.pl) fototeka, czasopisma
 - [Anna Martyna](mailto:amartyna@nifc.pl) dokumenty życia społecznego
 - [Dominik Kowalski](mailto:dkowalski@nifc.pl) pracownia digitalizacji
 - [Jacek Iwaszko](mailto:jiwaszko@nifc.pl) muzykologia cyfrowa
