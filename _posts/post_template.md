@@ -11,8 +11,8 @@ Wydanie z dnia {{ page.date | date: "%d-%m-%Y" }}
 
 ## Nowości
 
+- Antykwariat
 - Książki
 - Czasopisma
 - Fototeka
 - Fonoteka
-- Antykwariat
