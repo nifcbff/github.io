@@ -17,6 +17,7 @@ BFF NIFC:
 Bazy dostępne w BFF:
 
 - <a target="new" href="http://nifc.naxosmusiclibrary.com">Naxos Music Library</a>
+- <a target="new" href="http://nifc.naxosvideolibrary.com">Naxos Video Library</a>
 - <a target="new" href="http://jstor.com">JSTOR</a>
 - <a target="new" href="http://www.oxfordmusiconline.com/grovemusic/">Grove Music Online</a>
 - <a target="new" href="https://academica.edu.pl/">Academica</a> (dostęp na terminalu w czytelni)
